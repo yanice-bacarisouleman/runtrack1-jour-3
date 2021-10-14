@@ -1,0 +1,19 @@
+body{
+    background-image: url("background3245.jpg");
+    background-size: 100%;
+
+}
+div{
+    display: flex;
+    justify-content: center;
+bottom: 0px;
+left: 0;
+right: 0;
+}
+p{
+    opacity: 0;
+}
+h1{
+    display: flex;
+
+}

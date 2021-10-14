@@ -1,0 +1,66 @@
+p{
+	font-size: 2em;
+	text-align: center;
+	font-family: arial, "Times New Roman";
+}
+
+.block {
+	background-color: darkcyan;
+	width: 10000px;
+	height: 100px;
+	display: block;
+	margin-left: -500px;
+	margin-right: auto;
+	margin-top: -10px;
+
+}
+
+
+
+
+h1{
+	text-align: center;
+	font-size: 3em;
+	background: white;
+	padding: 1em;
+	box-shadow:10px 10px ;
+
+}
+
+
+h2{
+	color:  darkred;
+	text-align: center ;
+	float: right;
+
+	font-size: 0.7em;
+	font-style: italic;
+
+	background: ghostwhite;
+	box-shadow:10px 10px
+
+}
+
+.img-me {
+	width:450px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+body{
+
+	background-color: aliceblue	;
+	
+} 
+
+.stonks {
+
+width: 70px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 70px;
+float: right;
+}
